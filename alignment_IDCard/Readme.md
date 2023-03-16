@@ -1,4 +1,4 @@
-Model Machine learning to detect 4 corner of CCCD and CMND
+<h1 align="center">Model Machine learning to detect 4 corner of CCCD and CMND</h1>
 B1: Tải anaconda qua website: https://www.anaconda.com/  
 B2: Mở anaconda navigator.  
 B3: Launch "CMD.exe Prompt"  
@@ -27,7 +27,7 @@ B12: Chạy câu lệnh:
 B13: Chạy câu lệnh:
 	model.save('/content/gdrive/MyDrive/training.pth')						#Lưu model đè lên file training cũ
 
-<h3 align="center">Align CCCD and CMND
+<h1 align="center">Align CCCD and CMND</h1>
 B1: Bật "VS Code"
 B2: Mở folder "alignment ID_Card" và mở align.py
 B3: Install các library cần thiết nếu chưa install:  
