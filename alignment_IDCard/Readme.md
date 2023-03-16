@@ -30,10 +30,10 @@ B13: Chạy câu lệnh:
 						Align CCCD and CMND
 B1: Bật "VS Code"
 B2: Mở folder "alignment ID_Card" và mở align.py
-B3: Install các library cần thiết nếu chưa install:
-			pip install cv2
-			pip install numpy
-			pip install matplotlib
-			pip install detecto
+B3: Install các library cần thiết nếu chưa install:  
+			pip install cv2  
+			pip install numpy  
+			pip install matplotlib  
+			pip install detecto  
 B4: Bật CMD trong VS Code bằng câu lệnh "Ctrl + `"
 B5: Chạy câu lệnh: "python align.py" sau đó sẽ yêu cầu "Enter the path to the image: ", sẽ đưa cái đường dẫn chứa hình ảnh cần crop và xem kết quả nó trả về.
