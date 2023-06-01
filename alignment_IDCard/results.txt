@@ -1,0 +1,8 @@
+ID: 079201003448
+name: CAO TUẤN ANH
+DOB: 26/04/2001
+sex: Nam
+nation: Việt Nam
+Place of origin: Diễn Hoa, Diễn Châu, Nghệ An
+Place of residence: 75.01 Lô B5 C/cư Phường 03, Quận 4, Hồ Chí Minh
+expiry: 26/04/2026
