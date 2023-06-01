@@ -1,2 +1,2 @@
 # TrustConnect
-Data Analyst
+Data Analyst and AI Researcher
